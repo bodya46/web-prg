@@ -1,0 +1,20 @@
+b{
+	color: rgb( 134, 70, 60);
+}
+i{
+	color: rgb( 27, 90, 81);
+}
+del{
+	color: rgb( 174, 96, 89);
+}
+ins{
+	color: rgb( 90, 58, 139);
+} 
+span {
+	color : blue;
+	font-size: 30pt;
+	font-style: italic;
+	font-weight: 900;
+	font-family: serif;
+
+}

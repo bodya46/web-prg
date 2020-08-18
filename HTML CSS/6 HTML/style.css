@@ -1,0 +1,35 @@
+table{
+	width: 2000px;
+	height: 2000px;
+	text-align: center;
+	margin-left: 31%; 
+}
+td{
+	width: 200px;
+	height: 200px;
+	background-size: 160px;
+	background-image: url(https://sun9-31.userapi.com/mvv_0aqx4RPHY3u5hXwGZBulzMk1uZLBNV0Jeg/IGftcsd9NK8.jpg);
+
+}
+h1{
+	margin-left: 36%; 
+}
+td{
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-name: rotation;
+}
+	@keyframes rotation{
+    from{
+        background-size: 200px;
+    }
+
+    50%{
+        background-size: 1px;
+    }
+
+
+    to{
+        background-size: 200px;
+    }
+}

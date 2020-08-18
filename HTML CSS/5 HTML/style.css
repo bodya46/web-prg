@@ -1,0 +1,24 @@
+#fot:hover{
+	width: 800px;
+	transition: 1.5s ease;
+}
+#fot{
+	width: 650px;
+	transition: 1.5s ease;
+
+}
+#oto:hover{
+	width: 800px;
+	transition: 1.5s ease;
+}
+#oto{
+	width: 650px;
+	transition: 1.5s ease;}
+
+#to{
+  color: black;
+}
+
+#to:hover {
+  color: red;
+}

@@ -1,0 +1,21 @@
+h1{
+	color: cyan;
+}
+del{
+	color: gray;
+}
+b{
+	color: red;
+}
+ins{
+	color: lime;
+}
+h3{
+	font-weight: 6;
+}
+span{
+	font-weight: 6;
+}
+em{
+	color: rgb( 247, 30, 225);
+}
